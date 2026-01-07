@@ -1,0 +1,7 @@
+requests==2.31.0
+python-dotenv==1.0.0
+supabase==1.0.3
+postgrest>=0.10.6,<0.11.0
+pandas>=2.2.0
+python-dateutil==2.8.2
+httpx>=0.23.0,<0.24.0

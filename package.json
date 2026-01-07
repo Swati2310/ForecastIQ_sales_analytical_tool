@@ -1,0 +1,22 @@
+{
+  "name": "sales-analytics-app",
+  "version": "1.0.0",
+  "description": "Sales Analytics App with Weather Correlation",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "echo 'Vercel serverless - no start'",
+    "build": "echo 'No build step required'"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.38.0",
+    "dotenv": "^16.3.1",
+    "onnxruntime-web": "^1.18.0"
+  },
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
